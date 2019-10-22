@@ -6,6 +6,14 @@
   text-align: center;
   background-color: #cccccc;
 }
+.dork{
+  background-image: url("https://images-na.ssl-images-amazon.com/images/I/71BDbQ0kKdL._UX679_.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.NOPE {
+  display: none;
+}
 .button {
   float: left;
   margin: 10px 20px;
